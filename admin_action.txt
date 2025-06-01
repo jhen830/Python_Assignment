@@ -1,0 +1,17 @@
+
+
+admin jinja verifying customer, time: 2024-08-14
+jinjalogged in , login time: 2024-08-16 02:55:31
+admin jinja verifying customer, time: 2024-08-16 02:55:42
+testlogged in , login time: 2024-08-16 20:34:05
+admin test verifying customer, time: 2024-08-16 20:35:17
+admin g verified customer, time: 2024-08-16 20:36:09
+admin g opened customer order status, time: 2024-08-16 20:37:17
+admin g ,checked customer report, time: 2024-08-16 20:38:08
+test logged in , login time: 2024-08-16 20:39:06
+admin test ,checked customer report, time: 2024-08-16 20:39:09
+test logged in , login time: 2024-08-16 20:41:18
+test logged in , login time: 2024-08-16 20:41:54
+admin test opened customer order status, time: 2024-08-16 20:41:57
+admin test ,checked customer report, time: 2024-08-16 20:42:01
+admin test logged off, time: 2024-08-16 20:44:17
